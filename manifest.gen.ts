@@ -15,20 +15,20 @@ import * as $$$$$$$5 from "./sections/Theme/Theme.tsx";
 
 const manifest = {
   "sections": {
-    "deco-sites/start/sections/Footer.tsx": $$$$$$$0,
-    "deco-sites/start/sections/Hero.tsx": $$$$$$$1,
-    "deco-sites/start/sections/ItWorks.tsx": $$$$$$$2,
-    "deco-sites/start/sections/myHero.tsx": $$$$$$$6,
-    "deco-sites/start/sections/ParagraphList.tsx": $$$$$$$3,
-    "deco-sites/start/sections/sections/ItWorks.tsx": $$$$$$$7,
-    "deco-sites/start/sections/SimpleTextList.tsx": $$$$$$$4,
-    "deco-sites/start/sections/Theme/Theme.tsx": $$$$$$$5,
+    "deco-sites/deco-cc-site/sections/Footer.tsx": $$$$$$$0,
+    "deco-sites/deco-cc-site/sections/Hero.tsx": $$$$$$$1,
+    "deco-sites/deco-cc-site/sections/ItWorks.tsx": $$$$$$$2,
+    "deco-sites/deco-cc-site/sections/myHero.tsx": $$$$$$$6,
+    "deco-sites/deco-cc-site/sections/ParagraphList.tsx": $$$$$$$3,
+    "deco-sites/deco-cc-site/sections/sections/ItWorks.tsx": $$$$$$$7,
+    "deco-sites/deco-cc-site/sections/SimpleTextList.tsx": $$$$$$$4,
+    "deco-sites/deco-cc-site/sections/Theme/Theme.tsx": $$$$$$$5,
   },
   "apps": {
-    "deco-sites/start/apps/decohub.ts": $$$$$$$$$$$$0,
-    "deco-sites/start/apps/site.ts": $$$$$$$$$$$$1,
+    "deco-sites/deco-cc-site/apps/decohub.ts": $$$$$$$$$$$$0,
+    "deco-sites/deco-cc-site/apps/site.ts": $$$$$$$$$$$$1,
   },
-  "name": "deco-sites/start",
+  "name": "deco-sites/deco-cc-site",
   "baseUrl": import.meta.url,
 };
 
